@@ -22,8 +22,8 @@
 
 ## Built With
 
-- ![HTML5]   
-- ![CSS3]
+- !HTML5  
+- !CSS3
 
 <br>
 
@@ -46,8 +46,8 @@
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Inspiration by [The Odin Project](https://www.theodinproject.com/)
-* Illustrative vectors was provided by [Freepik](https://www.freepik.com/)
+* Inspiration by The Odin Project
+* Illustrative vectors was provided by Freepik
 
 <br>
 
@@ -63,8 +63,8 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/abdulswabulsserunjogi" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  abdulswabulsserujogi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 </div>
