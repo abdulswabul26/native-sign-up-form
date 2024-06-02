@@ -6,7 +6,7 @@
 
 <h3 align="center"><b>Sign Up Form</b></h3>
 <p align="center">
-    For a 
+    For a Graphic Designing Company
 </p>
 
 </div>
@@ -64,7 +64,7 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/abdulswabulsserunjogi" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  abdulswabulsserujogi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  abdulswabulsserunjogi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 </div>
