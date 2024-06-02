@@ -21,23 +21,29 @@ body{
 
 }
 
-    #logo{
-        position: absolute;
-        top: 10px;
-        left: 20px;
-        
+/* ---------- Logo Styling ----------- */
+
+#logo{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    width: 150px;
+    animation-name: logo_intro;
+    animation-duration: .7s;
     }
-    #logo a{
-        display: flex;
-        flex-direction: row;
-        font-family: var(--text-font);
-        font-size: 1.5em;
-        color: var(--text-color-w);
+#logo img{
+    width: 100%;
+}
+@keyframes logo_intro {
+    0%{
+        transform: translateY(-300%);
     }
-    #logo span{
-        padding: 0px 0px 0px 3px;
-        font-weight: 700;
+    100%{
+        transform: translateY(0%);
     }
+}
+
+
 
 
 /* ---------- illustration Styling ---------- */
@@ -49,14 +55,23 @@ body{
     justify-content: center;
     align-items: center;
 
-    
+    animation-name: illustration_intro;
+    animation-duration: 1s;
 }
-
+@keyframes illustration_intro {
+    0%{
+        transform: translateX(-600%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
 .signup-img{
     width: 80%;
     height: 100%;
     object-fit: contain;
 } 
+
 
 /* @media screen and (max-width: 800px) {
     .illustration-section{
@@ -89,8 +104,19 @@ body{
     background-color: #fff;
 
     animation-name: form_intro;
-    animation-duration: 1s;
+    animation-duration: 2s;
 }
+
+@keyframes form_intro {
+    0%{
+        transform: translateX(300%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
+
+
 .title{    
     font-family: var(--text-font);
     color: var(--color-a);
@@ -182,14 +208,7 @@ form .other-links{
 
 /* ----------- Animations --------- */
 
-@keyframes form_intro {
-    0%{
-        transform: translateX(300%);
-    }
-    100%{
-        transform: translateX(0%);
-    }
-}
+
 
 
 /* --------- Media Queries ---------- */
