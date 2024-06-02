@@ -20,8 +20,7 @@
     <div id="main-container">
         <div id="logo">
             <a href="#">
-                <p>Syke</p>
-            <span>Codes</span>
+            <span>Native</span>
             </a>
         </div>
         <div class="illustration-section">
@@ -35,33 +34,57 @@
                 <form action="" id="form">
                     <div class="input-section">
                         <label>First Name</label>
-                        <input type="text" name="user_name" id="first_name" placeholder="John" required>
-                        <small>Error message</small>
+                        <input type="text" 
+                            name="user_name" 
+                            id="first_name" 
+                            placeholder="John" 
+                            required
+                        >
                     </div>
                     <div class="input-section">
                         <label>Last Name</label>
-                        <input type="text" name="user_name" id="last_name" placeholder="Doe" required>
-                        <small>Error message</small>
+                        <input type="text" 
+                            name="user_name" 
+                            id="last_name" 
+                            placeholder="Doe" 
+                            required
+                        >
                     </div>
                     <div class="input-section">
                         <label>Email</label>
-                        <input type="text" name="user_name" id="email" required>
-                        <small>Error message</small>
+                        <input type="text" 
+                            name="user_name" 
+                            id="email" 
+                            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" 
+                            required
+                        >
                     </div>
                     <div class="input-section">
                         <label>Phone Number</label>
-                        <input type="text" name="user_name" id="phone_number" required>
-                        <small>Error message</small>
+                        <input type="number" 
+                            name="user_name" 
+                            id="phone_number" 
+                            pattern="[789][0-9]{9}" 
+                            required
+                        >
                     </div>
                     <div class="input-section">
                         <label>Password</label>
-                        <input type="text" name="user_name" id="password" required>
-                        <small>Error message</small>
+                        <input type="text" 
+                            name="user_name" 
+                            id="password" 
+                            pattern="[A-Za-z]{3}" 
+                            required
+                        >
                     </div>
                     <div class="input-section">
                         <label>Confirm Password</label>
-                        <input type="text" name="user_name" id="confirm_password" required>
-                        <small>Error message</small>
+                        <input type="text" 
+                            name="user_name" 
+                            id="confirm_password" 
+                            pattern="[A-Za-z]{3}" 
+                            required
+                        >
                     </div>
                     <button> Submit</button>
                     <div class="other-links">
