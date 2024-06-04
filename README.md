@@ -15,6 +15,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Preview
+<div align="center">
+ <img src=".//images/mockups/native-1.png">
+ <img src=".//images/mockups/native-2.png">
+ <img src=".//images/mockups/native-3.png">
+</div>
 > **Note**  
 >> Application is still under Development
 
@@ -40,6 +45,8 @@
 
 * HTML form validations
 * CSS Grid
+* Responsiveness
+
 
 <br>
 
