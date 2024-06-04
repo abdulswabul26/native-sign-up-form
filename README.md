@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="">
-    <img src="./images/logo/freepik-colorful-minimalist-creative-marketing-agency-logo-20240602090605RKBY.png" alt="Logo" width="100">
+    <img src="./images/logo/freepik-colorful-minimalist-creative-marketing-agency-logo-20240602093724nEqE.png" alt="Logo" width="100">
   </a>
 
 <h3 align="center"><b>Sign Up Form</b></h3>
